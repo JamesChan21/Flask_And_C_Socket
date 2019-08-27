@@ -1,5 +1,6 @@
 # Flask_And_C_Socket
-Build local database and api back-end in flask, and test it with c
+1.Build local database and api back-end in flask, and test it with c
+2.Http file
 
 ## Environment
 Ubuntu 14.04
